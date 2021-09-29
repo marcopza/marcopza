@@ -1,16 +1,47 @@
-### Hi there 👋
+# Marco Antonio Pérez
+_An intro to myself._
 
-<!--
-**marcopza/marcopza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I like
+- Android app development
+- Front-end Development
+- Cybersecurity
+- Neuroscience
+- Psychology
+- Techno
+- Techno-minimal
+- Mixing
 
-Here are some ideas to get you started:
+## What tools, frameworks and languages I have learned
+- Kotlin
+    - Android
+- Java
+- Python
+- Javascript
+- Spring
+- Vue.js
+    - Vuex
+    - Vue router
+    - Vuetify
+    - Vee-validate
+- Metasploit
+- Sqlmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Books I suggest you read
+- Why We Sleep by: Matthew Walker
+- Feeling Good: The New Mood Therapy by David Burns
+- The Blank Slate by: The Modern Denial of Human Nature by Steven Pinker
+- Waking Up: A Guide To Spirituality Without Religion
+- Mind Over Mood: Change How You Feel By Changing The Way You Think by Dennis Greenberger and Christine A. Padesky
+
+## My Favorite Movies and Tv Series
+- El abrazo de la serpiente
+- Tantas almas
+- Birdman
+- Logan
+- Hannibal (Mads Mikkelsen is a god)
+- Loki
+
+## My links
+- [Soundcloud](https://soundcloud.com/marcopza99)
+- [Instagram](https://www.instagram.com/marcoperezza/)
+- [LinkedIn](https://www.linkedin.com/in/marcopza/)
