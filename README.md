@@ -1,5 +1,5 @@
 # Marco Antonio Pérez
-_An intro to myself._
+_Android Developer in Moove It_
 
 ## What I like
 - Android app development
@@ -29,7 +29,7 @@ _An intro to myself._
 ## Books I suggest you read
 - Why We Sleep by: Matthew Walker
 - Feeling Good: The New Mood Therapy by David Burns
-- The Blank Slate by: The Modern Denial of Human Nature by Steven Pinker
+- The Blank Slate. The Modern Denial of Human Nature by Steven Pinker
 - Waking Up: A Guide To Spirituality Without Religion
 - Mind Over Mood: Change How You Feel By Changing The Way You Think by Dennis Greenberger and Christine A. Padesky
 
