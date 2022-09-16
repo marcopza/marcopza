@@ -14,6 +14,10 @@ _Android Developer at Moove It_
 ## What tools, frameworks and languages I have learned
 - Kotlin
     - Android
+    - Coroutines
+    - RxJava
+    - MVVM
+    - Clean Architecture
 - Java
 - Python
 - Javascript
