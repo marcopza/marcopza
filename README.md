@@ -3,7 +3,7 @@ _Android Developer at Moove It_
 
 ## What I like
 - Android app development
-- Front-end Development
+- Mobile Operating Systems
 - Cybersecurity
 - Neuroscience
 - Psychology
@@ -13,20 +13,11 @@ _Android Developer at Moove It_
 
 ## What tools, frameworks and languages I have learned
 - Kotlin
-    - Android
-    - Coroutines
-    - RxJava
-    - MVVM
-    - Clean Architecture
+- Android
+- Clean Architecture
+- DexGuard
 - Java
-- Python
-- Javascript
 - Spring
-- Vue.js
-    - Vuex
-    - Vue router
-    - Vuetify
-    - Vee-validate
 - Metasploit
 - Sqlmap
 
